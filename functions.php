@@ -2,7 +2,7 @@
 	
 /*
 	Include this code in your functions.php theme child.
-	Inclua etse código no functions do seu tema filho.
+	Inclua este código no functions do seu tema filho.
 */
 	
 function flatsome__conditions__one_colum_checkout() {
